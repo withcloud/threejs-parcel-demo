@@ -1,0 +1,8 @@
+node_modules
+.parcel-cache
+dist
+/.pnp
+.pnp.js
+.DS_Store
+.vercel
+yarn.lock
